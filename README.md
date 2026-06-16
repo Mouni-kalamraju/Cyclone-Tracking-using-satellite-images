@@ -11,9 +11,9 @@ This research was conducted as part of postgraduate studies at the Indian Instit
 ## 📚 Publications
 The methodologies and findings associated with this project have been peer-reviewed and published in the following journals and conferences:
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS): [[Paper]](https://ieeexplore.ieee.org/document/8548596) - "Consistent Robust and Recursive Estimation of Atmospheric Motion Vectors From Satellite Images" (2019).
+IEEE Transactions on Geoscience and Remote Sensing (TGRS): [[Paper]](https://ieeexplore.ieee.org/document/8548596) - "_**Consistent Robust and Recursive Estimation of Atmospheric Motion Vectors From Satellite Images**_" (2019).
 
-Springer CVIP 2017: [[Paper](https://www.researchgate.net/publication/324449464_Stochastic_Assimilation_Technique_for_Cloud_Motion_Analysis)] - "Stochastic Assimilation Technique for Cloud Motion Analysis" (2018).
+Springer CVIP 2017: [[Paper](https://www.researchgate.net/publication/324449464_Stochastic_Assimilation_Technique_for_Cloud_Motion_Analysis)] - "_**Stochastic Assimilation Technique for Cloud Motion Analysis**_" (2018).
 
 ## 📊 1. Data Visualization & Insights (Power BI)
 An interactive Power BI dashboard serves as the front-end for exploring spatial and temporal trends in cyclone data. This allows users to quickly gain insights into cyclone frequency, intensity, and geographical paths.
